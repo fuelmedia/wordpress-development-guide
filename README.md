@@ -56,7 +56,8 @@ Never edit the core files of Wordpress plugins and libraries. If you need to cha
 ## Naming Conventions
 
 - Always use 'meaningful names' for variables, functions, classes, etc.
-- Always use 'camelCase' for naming variables, functions, classes, etc.
+- Always use 'camelCase' for naming JavaScript variables, functions, classes, etc.
+- Always use 'snake_case' for naming PHP variables, functions, classes, etc.
 
 ## Code Formatting
 
