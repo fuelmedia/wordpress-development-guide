@@ -24,7 +24,8 @@ Follow the [Official WordPress CSS Coding Standards](https://make.wordpress.org/
 
 # Plugin / Library Usage
 
-Always use the latest version of the plugin or library. Never use not maintained plugins or libraries. Ensure that the plugin or library is well documented and has a good community support.
+- Always use the latest version of the plugin or library. Never use not maintained plugins or libraries. Ensure that the plugin or library is well documented and has a good community support.
+- Don't use too many plugins or libraries. Use only the necessary plugins or libraries. Try to use the WordPress core functions as much as possible.
 
 # Version Control
 
